@@ -1,4 +1,4 @@
 # assistant
-A speaking assistant
+[German] Ein deutscher Sprachassistent
 
 Still in developement...
